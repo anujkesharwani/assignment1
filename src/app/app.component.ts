@@ -14,32 +14,32 @@ export class AppComponent {
    
   imgCollection: Array<object> = [
       {
-        image: '/assets/Screenshot_2022-09-09_200618-removebg-preview 1.png',
-        thumbImage: '/assets/Screenshot_2022-09-09_200618-removebg-preview 1.png',
+        image: './assets/Screenshot_2022-09-09_200618-removebg-preview 1.png',
+        thumbImage: './assets/Screenshot_2022-09-09_200618-removebg-preview 1.png',
         title: 'burger'
       }, {
         
-        image: '/assets/Screenshot_2022-09-09_200547-removebg-preview 1.png',
-        thumbImage: '/assets/Screenshot_2022-09-09_200547-removebg-preview 1.png',
+        image: './assets/Screenshot_2022-09-09_200547-removebg-preview 1.png',
+        thumbImage: './assets/Screenshot_2022-09-09_200547-removebg-preview 1.png',
         title: 'rolls'
       }, {
         
-        image: '/assets/Screenshot_2022-09-09_200558-removebg-preview 1.png',
-        thumbImage: '/assets/Screenshot_2022-09-09_200558-removebg-preview 1.png',
+        image: './assets/Screenshot_2022-09-09_200558-removebg-preview 1.png',
+        thumbImage: './assets/Screenshot_2022-09-09_200558-removebg-preview 1.png',
         title: 'momo'
       }, {
         
-        image: '/assets/Screenshot_2022-09-09_201220-removebg-preview 1.png',
-        thumbImage: '/assets/Screenshot_2022-09-09_201220-removebg-preview 1.png',
+        image: './assets/Screenshot_2022-09-09_201220-removebg-preview 1.png',
+        thumbImage: './assets/Screenshot_2022-09-09_201220-removebg-preview 1.png',
         title: 'pizza'
       }, {
         
-        image: '/assets/Screenshot_2022-09-09_201533-removebg-preview 1.png',
-        thumbImage: '/assets/Screenshot_2022-09-09_201533-removebg-preview 1.png',
+        image: './assets/Screenshot_2022-09-09_201533-removebg-preview 1.png',
+        thumbImage: './assets/Screenshot_2022-09-09_201533-removebg-preview 1.png',
         title: 'biryani'
       }
       , {
-                image: '/assets/Screenshot_2022-09-09_201756-removebg-preview 1.png',
+                image: './assets/Screenshot_2022-09-09_201756-removebg-preview 1.png',
         thumbImage: '/assets/Screenshot_2022-09-09_201756-removebg-preview 1.png',
         title: 'thali'
       }
